@@ -1,0 +1,3 @@
+A90592D,Angeline Stefany,Huaranca,Berrospi,INGENIERIA,32
+A90595D,Ruth Mery,Chavez,Gutierrez,INGENIERIA,25
+A90596D,Sly Jhon,Chileno,Delgado,INGENIERIA,21
